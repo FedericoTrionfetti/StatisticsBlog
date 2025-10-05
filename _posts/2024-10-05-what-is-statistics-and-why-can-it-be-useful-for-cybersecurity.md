@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "What is statistics, and why can it be useful for cybersecurity?"
-date: 2025-10-05
+date: 2024-10-05
 ---
 
 # What is statistics, and why can it be useful for cybersecurity?
