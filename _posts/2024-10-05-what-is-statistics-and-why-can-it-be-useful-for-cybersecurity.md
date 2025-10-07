@@ -156,7 +156,7 @@ date: 2024-10-05
   }
 </style>
 
-<a href="{{ site.baseurl }}/" class="back-link">Back to Posts</a>
+<a href="{{ "/" | relative_url }}" class="back-link">Back to Posts</a>
 
 <article>
   <div class="post-header">
