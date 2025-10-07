@@ -156,7 +156,7 @@ date: 2024-10-05
   }
 </style>
 
-<a href="/" class="back-link">Back to Posts</a>
+<a href="/StatisticsBlog/" class="back-link">Back to Posts</a>
 
 <article>
   <div class="post-header">
