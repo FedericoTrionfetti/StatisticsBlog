@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "What is Statistics, and Why Can It Be Useful for Cybersecurity?"
-date: 2024-10-05
+date: 2025-10-05
 ---
 
 <style>
@@ -165,7 +165,7 @@ date: 2024-10-05
       <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/>
       </svg>
-      October 05, 2024
+      October 05, 2025
     </div>
   </div>
 
